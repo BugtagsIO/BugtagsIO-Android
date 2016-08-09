@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NetworkApp</string>
+    <string name="title_activity_http_client">HttpClientActivity</string>
+    <string name="title_activity_url">UrlActivity</string>
+    <string name="title_activity_json">JsonActivity</string>
+    <string name="title_activity_input_stream">InputStreamActivity</string>
+    <string name="title_activity_okhttp">OkhttpActivity</string>
+    <string name="title_activity_okhttp2">Okhttp2Activity</string>
+    <string name="title_activity_okhttp3">Okhttp3Activity</string>
+    <string name="title_activity_loopj">LoopjActivity</string>
+    <string name="title_activity_retrofit">RetrofitActivity</string>
+    <string name="title_activity_retrofit1x">Retrofit1xActivity</string>
+    <string name="title_activity_volley">VolleyActivity</string>
+    <string name="title_activity_retrofit_ok3">RetrofitOk3Activity</string>
+</resources>

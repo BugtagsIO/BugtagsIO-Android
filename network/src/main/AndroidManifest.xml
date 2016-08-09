@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="io.bugtags.networkapp"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:name="io.bugtags.networkapp.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="io.bugtags.networkapp.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="io.bugtags.networkapp.HttpClientActivity"
+            android:label="@string/title_activity_http_client"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name="io.bugtags.networkapp.UrlActivity"
+            android:label="@string/title_activity_url"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name="io.bugtags.networkapp.Okhttp2Activity"
+            android:label="@string/title_activity_okhttp2"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name="io.bugtags.networkapp.Okhttp3Activity"
+            android:label="@string/title_activity_okhttp3"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="io.bugtags.networkapp.Retrofit2Activity"
+            android:label="@string/title_activity_retrofit"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="io.bugtags.networkapp.LoopjActivity"
+            android:label="@string/title_activity_loopj"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="io.bugtags.networkapp.Retrofit1xActivity"
+            android:label="@string/title_activity_retrofit1x"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="io.bugtags.networkapp.VolleyActivity"
+            android:label="@string/title_activity_volley"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name="io.bugtags.networkapp.RetrofitOk3Activity"
+            android:label="@string/title_activity_retrofit_ok3"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+    </application>
+
+</manifest>
