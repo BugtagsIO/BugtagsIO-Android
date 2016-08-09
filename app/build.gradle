@@ -8,7 +8,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "io.bugtags.demo"
+        applicationId "iot.bugtags.demo"
         minSdkVersion 9
         targetSdkVersion 23
         versionCode VERSION_CODE
@@ -63,7 +63,7 @@ afterEvaluate {
 apply plugin: 'io.bugtags.library.plugin'
 
 bugtags {
-    trackingNetworkEnabled true
+    trackingNetworkEnabled false
 }
 
 dependencies {

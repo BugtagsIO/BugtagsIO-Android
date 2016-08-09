@@ -9,7 +9,7 @@ android {
     useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
-        applicationId "io.bugtags.networkapp"
+        applicationId "iot.bugtags.networkapp"
         minSdkVersion 9
         targetSdkVersion 22
         versionCode 23

@@ -16,4 +16,4 @@ second=`echo $BUILD_TYPE|cut -c2-`
 ./gradlew -p network clean "assemble$first$second" > bugtags.log
 
 adb install -r "network/build/outputs/apk/network-${BUILD_TYPE}.apk"
-adb shell am start -n com.bugtag.networkapp/.MainActivity
+adb shell am start -n iot.bugtags.networkapp/.MainActivity
