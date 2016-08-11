@@ -14,7 +14,7 @@ android {
         versionCode VERSION_CODE
         versionName VERSION_NAME
         ndk {
-            // 设置支持的 SO 库构架
+            // set up armeabi arch
             abiFilters 'armeabi'// 'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64', 'mips', 'mips64'
         }
     }

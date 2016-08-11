@@ -15,7 +15,7 @@ android {
         versionCode 23
         versionName "1.3.0"
         ndk {
-            // 设置支持的 SO 库构架
+            // set up armeabi arch
             abiFilters 'armeabi'// 'armeabi-v7a', 'arm64-v8a', 'x86', 'x86_64', 'mips', 'mips64'
         }
     }
@@ -26,12 +26,23 @@ android {
         exclude 'META-INF/LICENSE'
     }
 
+    signingConfigs {
+        release {
+            storeFile file("btg.jks")
+            storePassword "bugtags"
+            keyAlias "bugtags"
+            keyPassword "bugtags"
+        }
+    }
+
     buildTypes {
         debug {
+            signingConfig signingConfigs.release
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
         release {
+            signingConfig signingConfigs.release
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
