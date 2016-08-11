@@ -1,173 +1,898 @@
+Starting Build
+Settings evaluated using settings file '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/settings.gradle'.
+Projects loaded. Root project using build file '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/build.gradle'.
+Included projects: [root project 'IO-Bugtags-Android-Studio-Demo', project ':app', project ':network']
+Evaluating root project 'IO-Bugtags-Android-Studio-Demo' using build file '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/build.gradle'.
+Evaluating project ':app' using build file '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build.gradle'.
+Creating configuration compile
+Creating configuration apk
+Creating configuration provided
+Creating configuration wearApp
+Creating configuration androidTestCompile
+Creating configuration androidTestApk
+Creating configuration androidTestProvided
+Creating configuration androidTestWearApp
+Creating configuration testCompile
+Creating configuration testApk
+Creating configuration testProvided
+Creating configuration testWearApp
+Creating configuration debugCompile
+Creating configuration debugApk
+Creating configuration debugProvided
+Creating configuration debugWearApp
+Creating configuration testDebugCompile
+Creating configuration testDebugApk
+Creating configuration testDebugProvided
+Creating configuration testDebugWearApp
+Creating configuration releaseCompile
+Creating configuration releaseApk
+Creating configuration releaseProvided
+Creating configuration releaseWearApp
+Creating configuration testReleaseCompile
+Creating configuration testReleaseApk
+Creating configuration testReleaseProvided
+Creating configuration testReleaseWearApp
+Parsing the SDK, no caching allowed
+Parsing /Users/changbinhe/Documents/Android/sdk/add-ons/addon-google_apis-google-21/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/add-ons/addon-google_apis-google-22/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/19.0.3/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/19.1.0/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/21.0.0/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/21.0.2/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/21.1.1/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/21.1.2/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/22.0.0/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/22.0.1/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.0/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.1/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/24.0.0/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/build-tools/android-4.4W/package.xml
 Observed package id 'build-tools;20.0.0' in inconsistent location '/Users/changbinhe/Documents/Android/sdk/build-tools/android-4.4W' (Expected '/Users/changbinhe/Documents/Android/sdk/build-tools/20.0.0')
+Parsing /Users/changbinhe/Documents/Android/sdk/cmake/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/docs/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/android/m2repository/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/android/support/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/google/m2repository/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/intel/Hardware_Accelerated_Execution_Manager/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.0-alpha2/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout/1.0.0-alpha4/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha2/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/lldb/2.1/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/lldb/2.2/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/ndk-bundle/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/patcher/v1/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platform-tools/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-18/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-19/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-20/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-21/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-22/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-23/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-24/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/platforms/android-N/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/samples/android-19/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/samples/android-21/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/samples/android-22/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/samples/android-23/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-18/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-19/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-20/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-21/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-22/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/sources/android-23/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/system-images/android-23/google_apis/x86/package.xml
+Parsing /Users/changbinhe/Documents/Android/sdk/tools/package.xml
+Using incremental javac compilation.
 Incremental java compilation is an incubating feature.
-:network:clean
-:network:preBuild UP-TO-DATE
-:network:preDebugBuild UP-TO-DATE
-:network:checkDebugManifest
-:network:preReleaseBuild UP-TO-DATE
-:network:prepareComAndroidSupportAppcompatV72311Library
-:network:prepareComAndroidSupportDesign2311Library
-:network:prepareComAndroidSupportRecyclerviewV72311Library
-:network:prepareComAndroidSupportSupportV42311Library
-:network:prepareIoBugtagsLibraryBugtagsLib130Library
-:network:prepareIoBugtagsLibraryInsta102Library
-:network:prepareDebugDependencies
-:network:compileDebugAidl
-:network:compileDebugRenderscript
-:network:generateDebugBuildConfig
-:network:mergeDebugShaders
-:network:compileDebugShaders
-:network:generateDebugAssets
-:network:mergeDebugAssets
-:network:generateDebugResValues UP-TO-DATE
-:network:generateDebugResources
-:network:mergeDebugResources
-:network:processDebugManifest
-:network:processDebugResources
-:network:generateDebugSources
-:network:incrementalDebugJavaCompilationSafeguard
-:network:compileDebugJavaWithJavac
-:network:compileDebugJavaWithJavac - is not incremental (e.g. outputs have changed, no previous execution, etc.).
-:network:compileDebugNdk UP-TO-DATE
-:network:compileDebugSources
-:network:prePackageMarkerForDebug
-:network:bugtagsInstrumentTask
-:network:transformClassesWithDexForDebug
-[bugtags.info] [com.loopj.android.http.AsyncHttpRequest] replacing call to cz/msebera/android/httpclient/impl/client/AbstractHttpClient.execute(Lcz/msebera/android/httpclient/client/methods/HttpUriRequest;Lcz/msebera/android/httpclient/protocol/HttpContext;)Lcz/msebera/android/httpclient/client/methods/CloseableHttpResponse; with io/bugtags/agent/instrumentation/loopj149/LoopjInstrumentation.execute(Lcz/msebera/android/httpclient/impl/client/AbstractHttpClient;Lcz/msebera/android/httpclient/client/methods/HttpUriRequest;Lcz/msebera/android/httpclient/protocol/HttpContext;)Lcz/msebera/android/httpclient/client/methods/CloseableHttpResponse; (with instance check)
-[bugtags.info] [retrofit2.OkHttpCall] replacing call to okhttp3/Call$Factory.newCall(Lokhttp3/Request;)Lokhttp3/Call; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newCall(Lokhttp3/OkHttpClient;Lokhttp3/Request;)Lokhttp3/Call; (with instance check)
-[bugtags.info] [retrofit2.OkHttpCall] replacing call to okhttp3/Response.newBuilder()Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newBuilder(Lokhttp3/Response$Builder;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [retrofit2.OkHttpCall] replacing call to okhttp3/Response$Builder.body(Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.body(Lokhttp3/Response$Builder;Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [retrofit2.RequestBuilder] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [retrofit2.Response] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [retrofit2.Response] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [retrofit2.Response] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [retrofit2.ServiceMethod] replacing call to retrofit2/RequestBuilder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.HttpClientTest] replacing call to org/apache/http/client/HttpClient.execute(Lorg/apache/http/HttpHost;Lorg/apache/http/HttpRequest;Lorg/apache/http/client/ResponseHandler;)Ljava/lang/Object; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/HttpHost;Lorg/apache/http/HttpRequest;Lorg/apache/http/client/ResponseHandler;)Ljava/lang/Object; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.HttpClientTest] replacing call to org/apache/http/client/HttpClient.execute(Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.HttpClientTest] replacing call to org/apache/http/client/HttpClient.execute(Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.HttpClientTest] replacing call to org/apache/http/client/HttpClient.execute(Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.HttpClientTest] replacing call to org/apache/http/client/HttpClient.execute(Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.HttpURLConnectionTest] wrapping call to java/net/URL.openConnection()Ljava/net/URLConnection; with io/bugtags/agent/instrumentation/HttpInstrumentation.openConnection(Ljava/net/URLConnection;)Ljava/net/URLConnection;
-[bugtags.info] [iot.bugtags.networkapp.HttpURLConnectionTest] wrapping call to java/net/URL.openConnection()Ljava/net/URLConnection; with io/bugtags/agent/instrumentation/HttpInstrumentation.openConnection(Ljava/net/URLConnection;)Ljava/net/URLConnection;
-[bugtags.info] [iot.bugtags.networkapp.HttpURLConnectionTest] wrapping call to java/net/URL.openConnection()Ljava/net/URLConnection; with io/bugtags/agent/instrumentation/HttpInstrumentation.openConnection(Ljava/net/URLConnection;)Ljava/net/URLConnection;
-[bugtags.info] [iot.bugtags.networkapp.HttpURLConnectionTest] wrapping call to java/net/URL.openConnection()Ljava/net/URLConnection; with io/bugtags/agent/instrumentation/HttpInstrumentation.openConnection(Ljava/net/URLConnection;)Ljava/net/URLConnection;
-[bugtags.info] [iot.bugtags.networkapp.HttpURLConnectionTest] wrapping call to java/net/URL.openConnection()Ljava/net/URLConnection; with io/bugtags/agent/instrumentation/HttpInstrumentation.openConnection(Ljava/net/URLConnection;)Ljava/net/URLConnection;
-[bugtags.info] [iot.bugtags.networkapp.Okhttp2Test] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp2Test] replacing call to com/squareup/okhttp/OkHttpClient.newCall(Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newCall(Lcom/squareup/okhttp/OkHttpClient;Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp2Test] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp2Test] replacing call to com/squareup/okhttp/OkHttpClient.newCall(Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newCall(Lcom/squareup/okhttp/OkHttpClient;Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp2Test] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp2Test] replacing call to com/squareup/okhttp/OkHttpClient.newCall(Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newCall(Lcom/squareup/okhttp/OkHttpClient;Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp2Test] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp2Test] replacing call to com/squareup/okhttp/OkHttpClient.newCall(Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newCall(Lcom/squareup/okhttp/OkHttpClient;Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp2Test] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp2Test] replacing call to com/squareup/okhttp/OkHttpClient.newCall(Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newCall(Lcom/squareup/okhttp/OkHttpClient;Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; (with instance check)
-[bugtags.info] [com.android.volley.toolbox.HttpClientStack] replacing call to org/apache/http/client/HttpClient.execute(Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; (with instance check)
-[bugtags.info] [com.android.volley.toolbox.HurlStack] wrapping call to java/net/URL.openConnection()Ljava/net/URLConnection; with io/bugtags/agent/instrumentation/HttpInstrumentation.openConnection(Ljava/net/URLConnection;)Ljava/net/URLConnection;
-[bugtags.info] [iot.bugtags.networkapp.Okhttp3Test] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp3Test] replacing call to okhttp3/OkHttpClient.newCall(Lokhttp3/Request;)Lokhttp3/Call; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newCall(Lokhttp3/OkHttpClient;Lokhttp3/Request;)Lokhttp3/Call; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp3Test] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp3Test] replacing call to okhttp3/OkHttpClient.newCall(Lokhttp3/Request;)Lokhttp3/Call; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newCall(Lokhttp3/OkHttpClient;Lokhttp3/Request;)Lokhttp3/Call; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp3Test] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp3Test] replacing call to okhttp3/OkHttpClient.newCall(Lokhttp3/Request;)Lokhttp3/Call; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newCall(Lokhttp3/OkHttpClient;Lokhttp3/Request;)Lokhttp3/Call; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp3Test] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp3Test] replacing call to okhttp3/OkHttpClient.newCall(Lokhttp3/Request;)Lokhttp3/Call; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newCall(Lokhttp3/OkHttpClient;Lokhttp3/Request;)Lokhttp3/Call; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp3Test] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [iot.bugtags.networkapp.Okhttp3Test] replacing call to okhttp3/OkHttpClient.newCall(Lokhttp3/Request;)Lokhttp3/Call; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newCall(Lokhttp3/OkHttpClient;Lokhttp3/Request;)Lokhttp3/Call; (with instance check)
-[bugtags.info] [retrofit.client.ApacheClient] replacing call to org/apache/http/client/HttpClient.execute(Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/HttpResponse; (with instance check)
-[bugtags.info] [retrofit.client.OkClient] replacing call to com/squareup/okhttp/OkHttpClient.newCall(Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newCall(Lcom/squareup/okhttp/OkHttpClient;Lcom/squareup/okhttp/Request;)Lcom/squareup/okhttp/Call; (with instance check)
-[bugtags.info] [retrofit.client.OkClient] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [retrofit.client.UrlConnectionClient] wrapping call to java/net/URL.openConnection()Ljava/net/URLConnection; with io/bugtags/agent/instrumentation/HttpInstrumentation.openConnection(Ljava/net/URLConnection;)Ljava/net/URLConnection;
-[bugtags.info] [okhttp3.Cache$Entry] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [okhttp3.Cache$Entry] replacing call to okhttp3/Response$Builder.body(Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.body(Lokhttp3/Response$Builder;Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.Cache$Entry] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [com.squareup.okhttp.Cache$Entry] replacing call to com/squareup/okhttp/Response$Builder.body(Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.body(Lcom/squareup/okhttp/Response$Builder;Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.Call] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [okhttp3.RealCall] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.AuthenticatorAdapter] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.AuthenticatorAdapter] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [okhttp3.internal.http.CacheStrategy$Factory] replacing call to okhttp3/Response.newBuilder()Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newBuilder(Lokhttp3/Response$Builder;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.CacheStrategy$Factory] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.CacheStrategy$Factory] replacing call to com/squareup/okhttp/Response.newBuilder()Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newBuilder(Lcom/squareup/okhttp/Response$Builder;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.CacheStrategy$Factory] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response$Builder.body(Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.body(Lokhttp3/Response$Builder;Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response.newBuilder()Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newBuilder(Lokhttp3/Response$Builder;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response.newBuilder()Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newBuilder(Lokhttp3/Response$Builder;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response$Builder.body(Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.body(Lokhttp3/Response$Builder;Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response.newBuilder()Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newBuilder(Lokhttp3/Response$Builder;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response$Builder.body(Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.body(Lokhttp3/Response$Builder;Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response.newBuilder()Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newBuilder(Lokhttp3/Response$Builder;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response.newBuilder()Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newBuilder(Lokhttp3/Response$Builder;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response.newBuilder()Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newBuilder(Lokhttp3/Response$Builder;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response$Builder.body(Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.body(Lokhttp3/Response$Builder;Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response.newBuilder()Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newBuilder(Lokhttp3/Response$Builder;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Response$Builder.body(Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.body(Lokhttp3/Response$Builder;Lokhttp3/ResponseBody;)Lokhttp3/Response$Builder; (with instance check)
-[bugtags.info] [okhttp3.internal.http.HttpEngine] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response.newBuilder()Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newBuilder(Lcom/squareup/okhttp/Response$Builder;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response$Builder.body(Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.body(Lcom/squareup/okhttp/Response$Builder;Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response.newBuilder()Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newBuilder(Lcom/squareup/okhttp/Response$Builder;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response$Builder.body(Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.body(Lcom/squareup/okhttp/Response$Builder;Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response.newBuilder()Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newBuilder(Lcom/squareup/okhttp/Response$Builder;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response$Builder.body(Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.body(Lcom/squareup/okhttp/Response$Builder;Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response.newBuilder()Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newBuilder(Lcom/squareup/okhttp/Response$Builder;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response.newBuilder()Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newBuilder(Lcom/squareup/okhttp/Response$Builder;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response.newBuilder()Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newBuilder(Lcom/squareup/okhttp/Response$Builder;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response$Builder.body(Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.body(Lcom/squareup/okhttp/Response$Builder;Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response.newBuilder()Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.newBuilder(Lcom/squareup/okhttp/Response$Builder;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Response$Builder.body(Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.body(Lcom/squareup/okhttp/Response$Builder;Lcom/squareup/okhttp/ResponseBody;)Lcom/squareup/okhttp/Response$Builder; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.http.HttpEngine] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [okhttp3.internal.io.RealConnection] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-[bugtags.info] [com.squareup.okhttp.internal.io.RealConnection] replacing call to com/squareup/okhttp/Request$Builder.build()Lcom/squareup/okhttp/Request; with io/bugtags/agent/instrumentation/okhttp2/OkHttp2Instrumentation.build(Lcom/squareup/okhttp/Request$Builder;)Lcom/squareup/okhttp/Request; (with instance check)
-[bugtags.info] [cz.msebera.android.httpclient.impl.client.CloseableHttpClient] replacing call to cz/msebera/android/httpclient/impl/client/CloseableHttpClient.execute(Lcz/msebera/android/httpclient/client/methods/HttpUriRequest;Lcz/msebera/android/httpclient/protocol/HttpContext;)Lcz/msebera/android/httpclient/client/methods/CloseableHttpResponse; with io/bugtags/agent/instrumentation/loopj149/LoopjInstrumentation.execute(Lcz/msebera/android/httpclient/impl/client/AbstractHttpClient;Lcz/msebera/android/httpclient/client/methods/HttpUriRequest;Lcz/msebera/android/httpclient/protocol/HttpContext;)Lcz/msebera/android/httpclient/client/methods/CloseableHttpResponse; (with instance check)
-[bugtags.info] [cz.msebera.android.httpclient.impl.client.CloseableHttpClient] replacing call to cz/msebera/android/httpclient/impl/client/CloseableHttpClient.execute(Lcz/msebera/android/httpclient/client/methods/HttpUriRequest;Lcz/msebera/android/httpclient/protocol/HttpContext;)Lcz/msebera/android/httpclient/client/methods/CloseableHttpResponse; with io/bugtags/agent/instrumentation/loopj149/LoopjInstrumentation.execute(Lcz/msebera/android/httpclient/impl/client/AbstractHttpClient;Lcz/msebera/android/httpclient/client/methods/HttpUriRequest;Lcz/msebera/android/httpclient/protocol/HttpContext;)Lcz/msebera/android/httpclient/client/methods/CloseableHttpResponse; (with instance check)
-[bugtags.info] [org.apache.http.impl.client.CloseableHttpClient] replacing call to org/apache/http/impl/client/CloseableHttpClient.execute(Lorg/apache/http/client/methods/HttpUriRequest;Lorg/apache/http/client/ResponseHandler;Lorg/apache/http/protocol/HttpContext;)Ljava/lang/Object; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/client/methods/HttpUriRequest;Lorg/apache/http/client/ResponseHandler;Lorg/apache/http/protocol/HttpContext;)Ljava/lang/Object; (with instance check)
-[bugtags.info] [org.apache.http.impl.client.CloseableHttpClient] replacing call to org/apache/http/impl/client/CloseableHttpClient.execute(Lorg/apache/http/HttpHost;Lorg/apache/http/HttpRequest;Lorg/apache/http/client/ResponseHandler;Lorg/apache/http/protocol/HttpContext;)Ljava/lang/Object; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/HttpHost;Lorg/apache/http/HttpRequest;Lorg/apache/http/client/ResponseHandler;Lorg/apache/http/protocol/HttpContext;)Ljava/lang/Object; (with instance check)
-[bugtags.info] [org.apache.http.impl.client.CloseableHttpClient] replacing call to org/apache/http/impl/client/CloseableHttpClient.execute(Lorg/apache/http/HttpHost;Lorg/apache/http/HttpRequest;Lorg/apache/http/client/ResponseHandler;Lorg/apache/http/protocol/HttpContext;)Ljava/lang/Object; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/HttpHost;Lorg/apache/http/HttpRequest;Lorg/apache/http/client/ResponseHandler;Lorg/apache/http/protocol/HttpContext;)Ljava/lang/Object; (with instance check)
-[bugtags.info] [org.apache.http.impl.client.HttpRequestTaskCallable] replacing call to org/apache/http/client/HttpClient.execute(Lorg/apache/http/client/methods/HttpUriRequest;Lorg/apache/http/client/ResponseHandler;Lorg/apache/http/protocol/HttpContext;)Ljava/lang/Object; with io/bugtags/agent/instrumentation/HttpInstrumentation.execute(Lorg/apache/http/client/HttpClient;Lorg/apache/http/client/methods/HttpUriRequest;Lorg/apache/http/client/ResponseHandler;Lorg/apache/http/protocol/HttpContext;)Ljava/lang/Object; (with instance check)
-[bugtags.info] [com.jakewharton.retrofit.Ok3Client] replacing call to okhttp3/Call$Factory.newCall(Lokhttp3/Request;)Lokhttp3/Call; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.newCall(Lokhttp3/OkHttpClient;Lokhttp3/Request;)Lokhttp3/Call; (with instance check)
-[bugtags.info] [com.jakewharton.retrofit.Ok3Client] replacing call to okhttp3/Request$Builder.build()Lokhttp3/Request; with io/bugtags/agent/instrumentation/okhttp3/OkHttp3Instrumentation.build(Lokhttp3/Request$Builder;)Lokhttp3/Request; (with instance check)
-Result compacted from 6912.4KiB to 5096.2KiB to save 1816.1KiB
-Merged dex #1 (61 defs/106.5KiB)
-Merged dex #2 (326 defs/529.1KiB)
-Merged dex #3 (166 defs/225.1KiB)
-Merged dex #4 (134 defs/290.3KiB)
-Merged dex #5 (745 defs/903.4KiB)
-Merged dex #6 (3 defs/4.5KiB)
-Merged dex #7 (168 defs/208.8KiB)
-Merged dex #8 (173 defs/181.8KiB)
-Merged dex #9 (736 defs/772.6KiB)
-Merged dex #10 (355 defs/415.2KiB)
-Merged dex #11 (158 defs/130.5KiB)
-Merged dex #12 (22 defs/24.6KiB)
-Merged dex #13 (317 defs/251.6KiB)
-Merged dex #14 (495 defs/539.7KiB)
-Merged dex #15 (88 defs/130.3KiB)
-Merged dex #16 (73 defs/84.8KiB)
-Merged dex #17 (178 defs/303.1KiB)
-Merged dex #18 (188 defs/309.1KiB)
-Merged dex #19 (34 defs/67.9KiB)
-Merged dex #20 (126 defs/93.4KiB)
-Merged dex #21 (82 defs/73.9KiB)
-Merged dex #22 (3 defs/5.4KiB)
-Merged dex #23 (41 defs/6.4KiB)
-Result is 4672 defs/5096.2KiB. Took 1.5s
-:network:bugtagsDeinstrumentTask
-:network:mergeDebugJniLibFolders
-:network:transformNative_libsWithMergeJniLibsForDebug
-:network:processDebugJavaRes UP-TO-DATE
-:network:transformResourcesWithMergeJavaResForDebug
-:network:validateDebugSigning
-:network:packageDebug
-:network:zipalignDebug
-:network:assembleDebug
+Not using incremental javac compilation.
+Using incremental javac compilation.
+Not using incremental javac compilation.
+Using incremental javac compilation.
+appKey:5fcf1cd294eb8384e63c0e471063d6ff, appSecret:8aad5b2acf45afe1e79805d3b59550c5
+Evaluating project ':network' using build file '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/network/build.gradle'.
+Creating configuration compile
+Creating configuration apk
+Creating configuration provided
+Creating configuration wearApp
+Creating configuration androidTestCompile
+Creating configuration androidTestApk
+Creating configuration androidTestProvided
+Creating configuration androidTestWearApp
+Creating configuration testCompile
+Creating configuration testApk
+Creating configuration testProvided
+Creating configuration testWearApp
+Creating configuration debugCompile
+Creating configuration debugApk
+Creating configuration debugProvided
+Creating configuration debugWearApp
+Creating configuration testDebugCompile
+Creating configuration testDebugApk
+Creating configuration testDebugProvided
+Creating configuration testDebugWearApp
+Creating configuration releaseCompile
+Creating configuration releaseApk
+Creating configuration releaseProvided
+Creating configuration releaseWearApp
+Creating configuration testReleaseCompile
+Creating configuration testReleaseApk
+Creating configuration testReleaseProvided
+Creating configuration testReleaseWearApp
+Parsing the SDK, no caching allowed
+Using incremental javac compilation.
+Using incremental javac compilation.
+Using incremental javac compilation.
+Using incremental javac compilation.
+Using incremental javac compilation.
+appKey:5fcf1cd294eb8384e63c0e471063d6ff, appSecret:8aad5b2acf45afe1e79805d3b59550c5
+All projects evaluated.
+Selected primary task 'clean' from project :app
+Selected primary task 'build' from project :app
+Tasks to be executed: [task ':app:clean', task ':app:preBuild', task ':app:preDebugBuild', task ':app:checkDebugManifest', task ':app:preReleaseBuild', task ':app:prepareIoBugtagsLibraryBugtagsLib131Library', task ':app:prepareIoBugtagsLibraryInsta103Library', task ':app:prepareDebugDependencies', task ':app:compileDebugAidl', task ':app:compileDebugRenderscript', task ':app:generateDebugBuildConfig', task ':app:mergeDebugShaders', task ':app:compileDebugShaders', task ':app:generateDebugAssets', task ':app:mergeDebugAssets', task ':app:generateDebugResValues', task ':app:generateDebugResources', task ':app:mergeDebugResources', task ':app:processDebugManifest', task ':app:processDebugResources', task ':app:generateDebugSources', task ':app:incrementalDebugJavaCompilationSafeguard', task ':app:compileDebugJavaWithJavac', task ':app:compileDebugNdk', task ':app:compileDebugSources', task ':app:prePackageMarkerForDebug', task ':app:bugtagsInstrumentTask', task ':app:transformClassesWithDexForDebug', task ':app:checkReleaseManifest', task ':app:prepareReleaseDependencies', task ':app:compileReleaseAidl', task ':app:compileReleaseRenderscript', task ':app:generateReleaseBuildConfig', task ':app:processReleaseManifest', task ':app:bugtagsProguardReleaseConfig', task ':app:mergeReleaseShaders', task ':app:compileReleaseShaders', task ':app:generateReleaseAssets', task ':app:mergeReleaseAssets', task ':app:generateReleaseResValues', task ':app:generateReleaseResources', task ':app:mergeReleaseResources', task ':app:processReleaseResources', task ':app:generateReleaseSources', task ':app:incrementalReleaseJavaCompilationSafeguard', task ':app:compileReleaseJavaWithJavac', task ':app:processReleaseJavaRes', task ':app:transformResourcesWithMergeJavaResForRelease', task ':app:transformClassesAndResourcesWithProguardForRelease', task ':app:transformClassesWithDexForRelease', task ':app:bugtagsDeinstrumentTask', task ':app:mergeDebugJniLibFolders', task ':app:transformNative_libsWithMergeJniLibsForDebug', task ':app:processDebugJavaRes', task ':app:transformResourcesWithMergeJavaResForDebug', task ':app:validateReleaseSigning', task ':app:packageDebug', task ':app:zipalignDebug', task ':app:assembleDebug', task ':app:compileReleaseNdk', task ':app:compileReleaseSources', task ':app:lintVitalRelease', task ':app:bugtagsUploadReleaseMapping', task ':app:prePackageMarkerForRelease', task ':app:mergeReleaseJniLibFolders', task ':app:transformNative_libsWithMergeJniLibsForRelease', task ':app:packageRelease', task ':app:zipalignRelease', task ':app:assembleRelease', task ':app:assemble', task ':app:compileLint', task ':app:lint', task ':app:incrementalDebugUnitTestJavaCompilationSafeguard', task ':app:preDebugUnitTestBuild', task ':app:prepareDebugUnitTestDependencies', task ':app:compileDebugUnitTestJavaWithJavac', task ':app:processDebugUnitTestJavaRes', task ':app:compileDebugUnitTestSources', task ':app:mockableAndroidJar', task ':app:assembleDebugUnitTest', task ':app:testDebugUnitTest', task ':app:incrementalReleaseUnitTestJavaCompilationSafeguard', task ':app:preReleaseUnitTestBuild', task ':app:prepareReleaseUnitTestDependencies', task ':app:compileReleaseUnitTestJavaWithJavac', task ':app:processReleaseUnitTestJavaRes', task ':app:compileReleaseUnitTestSources', task ':app:assembleReleaseUnitTest', task ':app:testReleaseUnitTest', task ':app:test', task ':app:check', task ':app:build']
+:app:clean (Thread[main,5,main]) started.
+:app:clean
+Executing task ':app:clean' (up-to-date check took 0.001 secs) due to:
+  Task has not declared any outputs.
+:app:clean (Thread[main,5,main]) completed. Took 0.15 secs.
+:app:preBuild (Thread[main,5,main]) started.
+:app:preBuild
+Skipping task ':app:preBuild' as it has no actions.
+:app:preBuild UP-TO-DATE
+:app:preBuild (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:preDebugBuild (Thread[main,5,main]) started.
+:app:preDebugBuild
+Skipping task ':app:preDebugBuild' as it has no actions.
+:app:preDebugBuild UP-TO-DATE
+:app:preDebugBuild (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:checkDebugManifest (Thread[main,5,main]) started.
+:app:checkDebugManifest
+Executing task ':app:checkDebugManifest' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:checkDebugManifest (Thread[main,5,main]) completed. Took 0.002 secs.
+:app:preReleaseBuild (Thread[main,5,main]) started.
+:app:preReleaseBuild
+Skipping task ':app:preReleaseBuild' as it has no actions.
+:app:preReleaseBuild UP-TO-DATE
+:app:preReleaseBuild (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:prepareIoBugtagsLibraryBugtagsLib131Library (Thread[main,5,main]) started.
+:app:prepareIoBugtagsLibraryBugtagsLib131Library
+Executing task ':app:prepareIoBugtagsLibraryBugtagsLib131Library' (up-to-date check took 0.029 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1 has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/res/drawable/btg_btn_cross.xml has been removed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/jni/mips64 has been removed.
+:app:prepareIoBugtagsLibraryBugtagsLib131Library (Thread[main,5,main]) completed. Took 0.256 secs.
+:app:prepareIoBugtagsLibraryInsta103Library (Thread[main,5,main]) started.
+:app:prepareIoBugtagsLibraryInsta103Library
+Executing task ':app:prepareIoBugtagsLibraryInsta103Library' (up-to-date check took 0.001 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/insta/1.0.3 has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/insta/1.0.3/aidl has been removed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/insta/1.0.3/aapt/AndroidManifest.xml has been removed.
+:app:prepareIoBugtagsLibraryInsta103Library (Thread[main,5,main]) completed. Took 0.019 secs.
+:app:prepareDebugDependencies (Thread[main,5,main]) started.
+:app:prepareDebugDependencies
+Executing task ':app:prepareDebugDependencies' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:prepareDebugDependencies (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileDebugAidl (Thread[main,5,main]) started.
+:app:compileDebugAidl
+Executing task ':app:compileDebugAidl' (up-to-date check took 0.003 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/compileDebugAidl has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/aidl/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/compileDebugAidl/dependency.store has been removed.
+All input files are considered out-of-date for incremental task ':app:compileDebugAidl'.
+:app:compileDebugAidl (Thread[main,5,main]) completed. Took 0.021 secs.
+:app:compileDebugRenderscript (Thread[main,5,main]) started.
+:app:compileDebugRenderscript
+Executing task ':app:compileDebugRenderscript' (up-to-date check took 0.007 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/rs/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/res/rs/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/rs/debug/obj has changed.
+:app:compileDebugRenderscript (Thread[main,5,main]) completed. Took 0.05 secs.
+:app:generateDebugBuildConfig (Thread[main,5,main]) started.
+:app:generateDebugBuildConfig
+Executing task ':app:generateDebugBuildConfig' (up-to-date check took 0.005 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/buildConfig/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/buildConfig/debug/iot/bugtags/demo/BuildConfig.java has been removed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/buildConfig/debug/iot/bugtags has been removed.
+:app:generateDebugBuildConfig (Thread[main,5,main]) completed. Took 0.077 secs.
+:app:mergeDebugShaders (Thread[main,5,main]) started.
+:app:mergeDebugShaders
+Executing task ':app:mergeDebugShaders' (up-to-date check took 0.002 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/shaders/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeDebugShaders has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeDebugShaders/merger.xml has been removed.
+All input files are considered out-of-date for incremental task ':app:mergeDebugShaders'.
+Unable do incremental execution: full task run
+:app:mergeDebugShaders (Thread[main,5,main]) completed. Took 0.033 secs.
+:app:compileDebugShaders (Thread[main,5,main]) started.
+:app:compileDebugShaders
+Executing task ':app:compileDebugShaders' (up-to-date check took 0.007 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/assets/shaders/debug has changed.
+:app:compileDebugShaders (Thread[main,5,main]) completed. Took 0.02 secs.
+:app:generateDebugAssets (Thread[main,5,main]) started.
+:app:generateDebugAssets
+Skipping task ':app:generateDebugAssets' as it has no actions.
+:app:generateDebugAssets (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:mergeDebugAssets (Thread[main,5,main]) started.
+:app:mergeDebugAssets
+Executing task ':app:mergeDebugAssets' (up-to-date check took 0.003 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeDebugAssets has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/assets/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeDebugAssets/merger.xml has been removed.
+All input files are considered out-of-date for incremental task ':app:mergeDebugAssets'.
+Unable do incremental execution: full task run
+:app:mergeDebugAssets (Thread[main,5,main]) completed. Took 0.013 secs.
+:app:generateDebugResValues (Thread[main,5,main]) started.
+:app:generateDebugResValues
+Skipping task ':app:generateDebugResValues' as it is up-to-date (took 0.002 secs).
+:app:generateDebugResValues UP-TO-DATE
+:app:generateDebugResValues (Thread[main,5,main]) completed. Took 0.003 secs.
+:app:generateDebugResources (Thread[main,5,main]) started.
+:app:generateDebugResources
+Skipping task ':app:generateDebugResources' as it has no actions.
+:app:generateDebugResources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:mergeDebugResources (Thread[main,5,main]) started.
+:app:mergeDebugResources
+Executing task ':app:mergeDebugResources' (up-to-date check took 0.026 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeDebugResources has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/blame/res/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/res/merged/debug has changed.
+All input files are considered out-of-date for incremental task ':app:mergeDebugResources'.
+Unable do incremental execution: full task run
+QueuedCruncher is using /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/aapt
+:app:mergeDebugResources (Thread[main,5,main]) completed. Took 1.782 secs.
+:app:processDebugManifest (Thread[main,5,main]) started.
+:app:processDebugManifest
+Executing task ':app:processDebugManifest' (up-to-date check took 0.004 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/logs/manifest-merger-debug-report.txt has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/manifests/full/debug/AndroidManifest.xml has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/manifests/full/debug/AndroidManifest.xml has been removed.
+All input files are considered out-of-date for incremental task ':app:processDebugManifest'.
+Loading library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/AndroidManifest.xml
+Loading library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/insta/1.0.3/AndroidManifest.xml
+Loading library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/AndroidManifest.xml
+Merging main manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/src/main/AndroidManifest.xml
+
+Merging library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/AndroidManifest.xml
+Merging manifest with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:2:1-36:12
+Merging uses-sdk with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:7:5-9:41
+Merging application with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:21:5-34:19
+Merging library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/insta/1.0.3/AndroidManifest.xml
+Merging manifest with lower [io.bugtags.library:insta:1.0.3] AndroidManifest.xml:2:1-11:12
+Merging uses-sdk with lower [io.bugtags.library:insta:1.0.3] AndroidManifest.xml:7:5-9:41
+Merging library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/AndroidManifest.xml
+Merging manifest with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:2:1-36:12
+Merging uses-sdk with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:7:5-9:41
+Merging uses-permission#android.permission.ACCESS_FINE_LOCATION with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:11:5-79
+Merging uses-permission#android.permission.ACCESS_COARSE_LOCATION with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:12:5-81
+Merging uses-permission#android.permission.INTERNET with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:13:5-67
+Merging uses-permission#android.permission.ACCESS_WIFI_STATE with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:14:5-76
+Merging uses-permission#android.permission.ACCESS_NETWORK_STATE with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:15:5-79
+Merging uses-permission#android.permission.WRITE_EXTERNAL_STORAGE with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:16:5-81
+Merging uses-permission#android.permission.READ_EXTERNAL_STORAGE with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:17:5-80
+Merging uses-permission#android.permission.READ_LOGS with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:18:5-68
+Merging uses-permission#android.permission.SYSTEM_ALERT_WINDOW with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:19:5-78
+Merging application with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:21:5-34:19
+Merging activity#io.bugtags.library.BugtagsActivity with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:22:9-25:86
+Merging service#io.bugtags.library.BugtagsService with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:27:9-69
+Merging receiver#io.bugtags.library.BugtagsReceiver with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:29:9-33:20
+Merging result:SUCCESS
+Merged manifest saved to /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/manifests/full/debug/AndroidManifest.xml
+:app:processDebugManifest (Thread[main,5,main]) completed. Took 0.123 secs.
+:app:processDebugResources (Thread[main,5,main]) started.
+:app:processDebugResources
+Executing task ':app:processDebugResources' (up-to-date check took 0.014 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/res/resources-debug.ap_ has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/r/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/symbols/debug has changed.
+All input files are considered out-of-date for incremental task ':app:processDebugResources'.
+Starting process 'command '/Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/aapt''. Working directory: /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app Command: /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/aapt package -f --no-crunch -I /Users/changbinhe/Documents/Android/sdk/platforms/android-23/android.jar -M /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/manifests/full/debug/AndroidManifest.xml -S /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/res/merged/debug -A /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/assets/debug -m -J /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/r/debug -F /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/res/resources-debug.ap_ --debug-mode --custom-package iot.bugtags.demo -0 apk --output-text-symbols /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/symbols/debug --no-version-vectors
+Successfully started process 'command '/Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/aapt''
+:app:processDebugResources (Thread[main,5,main]) completed. Took 0.179 secs.
+:app:generateDebugSources (Thread[main,5,main]) started.
+:app:generateDebugSources
+Skipping task ':app:generateDebugSources' as it has no actions.
+:app:generateDebugSources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:incrementalDebugJavaCompilationSafeguard (Thread[main,5,main]) started.
+:app:incrementalDebugJavaCompilationSafeguard
+Executing task ':app:incrementalDebugJavaCompilationSafeguard' (up-to-date check took 0.003 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental-safeguard/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental-safeguard/debug/tag.txt has been removed.
+All input files are considered out-of-date for incremental task ':app:incrementalDebugJavaCompilationSafeguard'.
+:app:incrementalDebugJavaCompilationSafeguard (Thread[main,5,main]) completed. Took 0.01 secs.
+:app:compileDebugJavaWithJavac (Thread[main,5,main]) started.
+:app:compileDebugJavaWithJavac
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/src/debug/java', not found
+Executing task ':app:compileDebugJavaWithJavac' (up-to-date check took 0.008 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/dependency-cache/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/debug/io/bugtags/insta/R$array.class has been removed.
+All input files are considered out-of-date for incremental task ':app:compileDebugJavaWithJavac'.
+Compiling with source level 1.7 and target level 1.7.
+:app:compileDebugJavaWithJavac - is not incremental (e.g. outputs have changed, no previous execution, etc.).
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/src/debug/java', not found
+Compiling with JDK Java compiler API.
+Class dependency analysis for incremental compilation took 0.023 secs.
+Created jar classpath snapshot for incremental compilation in 0.014 secs.
+Written jar classpath snapshot for incremental compilation in 0.001 secs.
+:app:compileDebugJavaWithJavac (Thread[main,5,main]) completed. Took 0.83 secs.
+:app:compileDebugNdk (Thread[main,5,main]) started.
+:app:compileDebugNdk
+Skipping task ':app:compileDebugNdk' as it has no source files.
+:app:compileDebugNdk UP-TO-DATE
+:app:compileDebugNdk (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileDebugSources (Thread[main,5,main]) started.
+:app:compileDebugSources
+Skipping task ':app:compileDebugSources' as it has no actions.
+:app:compileDebugSources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:prePackageMarkerForDebug (Thread[main,5,main]) started.
+:app:prePackageMarkerForDebug
+Executing task ':app:prePackageMarkerForDebug' (up-to-date check took 0.002 secs) due to:
+  Value of input property 'buildId' has changed for task ':app:prePackageMarkerForDebug'
+All input files are considered out-of-date for incremental task ':app:prePackageMarkerForDebug'.
+:app:prePackageMarkerForDebug (Thread[main,5,main]) completed. Took 0.008 secs.
+:app:bugtagsInstrumentTask (Thread[main,5,main]) started.
+:app:bugtagsInstrumentTask
+Executing task ':app:bugtagsInstrumentTask' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:bugtagsInstrumentTask (Thread[main,5,main]) completed. Took 0.47 secs.
+:app:transformClassesWithDexForDebug (Thread[main,5,main]) started.
+:app:transformClassesWithDexForDebug
+Executing task ':app:transformClassesWithDexForDebug' (up-to-date check took 0.021 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/dex/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/pre-dexed/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/dex/debug/folders/1000 has been removed.
+All input files are considered out-of-date for incremental task ':app:transformClassesWithDexForDebug'.
+Allocated dexExecutorService of size 4
+Dexing in-process.
+Dexing in-process.
+Dexing in-process.
+Dexing in-process.
+writing classes.dex; size 31292...
+Dexing /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/debug took 1.067 s.
+writing classes.dex; size 90772...
+Dexing /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/insta/1.0.3/jars/classes.jar took 1.896 s.
+writing classes.dex; size 414564...
+Dexing /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/jars/classes.jar took 3.676 s.
+writing classes.dex; size 556020...
+Dexing /Users/changbinhe/Documents/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar took 3.721 s.
+Dexing in-process.
+Merged dex #1 (47 defs/30.6KiB)
+Merged dex #2 (436 defs/404.8KiB)
+Merged dex #3 (79 defs/88.6KiB)
+Merged dex #4 (502 defs/543.0KiB)
+Result is 1064 defs/1296.3KiB. Took 0.4s
+ignored resource META-INF/MANIFEST.MF
+ignored resource META-INF/MANIFEST.MF
+ignored resource META-INF/MANIFEST.MF
+ignored resource META-INF/MANIFEST.MF
+Dexing /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/pre-dexed/debug/io.bugtags.library-insta-1.0.3_acd179c9cf8febcfe2bd0f6491609cc7fb80ea23.jar,/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/pre-dexed/debug/io.bugtags.library-bugtags-lib-1.3.1_808869d040360086aaf7d9aba83dbfc3617bed43.jar,/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/pre-dexed/debug/debug_ed766b58bf7ae358b13d82f072b747286efc40c6.jar,/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/pre-dexed/debug/support-v4-19.0.0_5981a75db4b248df4763af84b6cac1617fb26ec3.jar took 408.4 ms.
+:app:transformClassesWithDexForDebug (Thread[main,5,main]) completed. Took 4.456 secs.
+:app:checkReleaseManifest (Thread[main,5,main]) started.
+:app:checkReleaseManifest
+Executing task ':app:checkReleaseManifest' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:checkReleaseManifest (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:prepareReleaseDependencies (Thread[main,5,main]) started.
+:app:prepareReleaseDependencies
+Executing task ':app:prepareReleaseDependencies' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:prepareReleaseDependencies (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileReleaseAidl (Thread[main,5,main]) started.
+:app:compileReleaseAidl
+Executing task ':app:compileReleaseAidl' (up-to-date check took 0.003 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/compileReleaseAidl has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/aidl/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/compileReleaseAidl/dependency.store has been removed.
+All input files are considered out-of-date for incremental task ':app:compileReleaseAidl'.
+:app:compileReleaseAidl (Thread[main,5,main]) completed. Took 0.017 secs.
+:app:compileReleaseRenderscript (Thread[main,5,main]) started.
+:app:compileReleaseRenderscript
+Executing task ':app:compileReleaseRenderscript' (up-to-date check took 0.009 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/rs/release/lib has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/res/rs/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/rs/release has changed.
+:app:compileReleaseRenderscript (Thread[main,5,main]) completed. Took 0.029 secs.
+:app:generateReleaseBuildConfig (Thread[main,5,main]) started.
+:app:generateReleaseBuildConfig
+Executing task ':app:generateReleaseBuildConfig' (up-to-date check took 0.005 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/buildConfig/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/buildConfig/release/iot has been removed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/buildConfig/release/iot/bugtags/demo/BuildConfig.java has been removed.
+:app:generateReleaseBuildConfig (Thread[main,5,main]) completed. Took 0.024 secs.
+:app:processReleaseManifest (Thread[main,5,main]) started.
+:app:processReleaseManifest
+Executing task ':app:processReleaseManifest' (up-to-date check took 0.004 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/logs/manifest-merger-release-report.txt has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/manifests/full/release/AndroidManifest.xml has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/logs/manifest-merger-release-report.txt has been removed.
+All input files are considered out-of-date for incremental task ':app:processReleaseManifest'.
+Loading library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/AndroidManifest.xml
+Loading library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/insta/1.0.3/AndroidManifest.xml
+Loading library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/AndroidManifest.xml
+Merging main manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/src/main/AndroidManifest.xml
+
+Merging library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/AndroidManifest.xml
+Merging manifest with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:2:1-36:12
+Merging uses-sdk with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:7:5-9:41
+Merging application with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:21:5-34:19
+Merging library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/insta/1.0.3/AndroidManifest.xml
+Merging manifest with lower [io.bugtags.library:insta:1.0.3] AndroidManifest.xml:2:1-11:12
+Merging uses-sdk with lower [io.bugtags.library:insta:1.0.3] AndroidManifest.xml:7:5-9:41
+Merging library manifest /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/AndroidManifest.xml
+Merging manifest with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:2:1-36:12
+Merging uses-sdk with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:7:5-9:41
+Merging uses-permission#android.permission.ACCESS_FINE_LOCATION with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:11:5-79
+Merging uses-permission#android.permission.ACCESS_COARSE_LOCATION with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:12:5-81
+Merging uses-permission#android.permission.INTERNET with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:13:5-67
+Merging uses-permission#android.permission.ACCESS_WIFI_STATE with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:14:5-76
+Merging uses-permission#android.permission.ACCESS_NETWORK_STATE with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:15:5-79
+Merging uses-permission#android.permission.WRITE_EXTERNAL_STORAGE with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:16:5-81
+Merging uses-permission#android.permission.READ_EXTERNAL_STORAGE with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:17:5-80
+Merging uses-permission#android.permission.READ_LOGS with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:18:5-68
+Merging uses-permission#android.permission.SYSTEM_ALERT_WINDOW with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:19:5-78
+Merging application with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:21:5-34:19
+Merging activity#io.bugtags.library.BugtagsActivity with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:22:9-25:86
+Merging service#io.bugtags.library.BugtagsService with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:27:9-69
+Merging receiver#io.bugtags.library.BugtagsReceiver with lower [io.bugtags.library:bugtags-lib:1.3.1] AndroidManifest.xml:29:9-33:20
+Merging result:SUCCESS
+Merged manifest saved to /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/manifests/full/release/AndroidManifest.xml
+:app:processReleaseManifest (Thread[main,5,main]) completed. Took 0.091 secs.
+:app:bugtagsProguardReleaseConfig (Thread[main,5,main]) started.
+:app:bugtagsProguardReleaseConfig
+Executing task ':app:bugtagsProguardReleaseConfig' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+Bugtags add progurard config!
+:app:bugtagsProguardReleaseConfig (Thread[main,5,main]) completed. Took 0.02 secs.
+:app:mergeReleaseShaders (Thread[main,5,main]) started.
+:app:mergeReleaseShaders
+Executing task ':app:mergeReleaseShaders' (up-to-date check took 0.003 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeReleaseShaders has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/shaders/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeReleaseShaders/merger.xml has been removed.
+All input files are considered out-of-date for incremental task ':app:mergeReleaseShaders'.
+Unable do incremental execution: full task run
+:app:mergeReleaseShaders (Thread[main,5,main]) completed. Took 0.017 secs.
+:app:compileReleaseShaders (Thread[main,5,main]) started.
+:app:compileReleaseShaders
+Executing task ':app:compileReleaseShaders' (up-to-date check took 0.004 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/assets/shaders/release has changed.
+:app:compileReleaseShaders (Thread[main,5,main]) completed. Took 0.016 secs.
+:app:generateReleaseAssets (Thread[main,5,main]) started.
+:app:generateReleaseAssets
+Skipping task ':app:generateReleaseAssets' as it has no actions.
+:app:generateReleaseAssets (Thread[main,5,main]) completed. Took 0.005 secs.
+:app:mergeReleaseAssets (Thread[main,5,main]) started.
+:app:mergeReleaseAssets
+Executing task ':app:mergeReleaseAssets' (up-to-date check took 0.003 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeReleaseAssets has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/assets/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeReleaseAssets/merger.xml has been removed.
+All input files are considered out-of-date for incremental task ':app:mergeReleaseAssets'.
+Unable do incremental execution: full task run
+:app:mergeReleaseAssets (Thread[main,5,main]) completed. Took 0.016 secs.
+:app:generateReleaseResValues (Thread[main,5,main]) started.
+:app:generateReleaseResValues
+Skipping task ':app:generateReleaseResValues' as it is up-to-date (took 0.002 secs).
+:app:generateReleaseResValues UP-TO-DATE
+:app:generateReleaseResValues (Thread[main,5,main]) completed. Took 0.004 secs.
+:app:generateReleaseResources (Thread[main,5,main]) started.
+:app:generateReleaseResources
+Skipping task ':app:generateReleaseResources' as it has no actions.
+:app:generateReleaseResources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:mergeReleaseResources (Thread[main,5,main]) started.
+:app:mergeReleaseResources
+Executing task ':app:mergeReleaseResources' (up-to-date check took 0.026 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/blame/res/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeReleaseResources has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/res/merged/release has changed.
+All input files are considered out-of-date for incremental task ':app:mergeReleaseResources'.
+Unable do incremental execution: full task run
+QueuedCruncher is using /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/aapt
+:app:mergeReleaseResources (Thread[main,5,main]) completed. Took 1.773 secs.
+:app:processReleaseResources (Thread[main,5,main]) started.
+:app:processReleaseResources
+Executing task ':app:processReleaseResources' (up-to-date check took 0.016 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/symbols/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/res/resources-release.ap_ has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/proguard-rules/release/aapt_rules.txt has changed.
+All input files are considered out-of-date for incremental task ':app:processReleaseResources'.
+Starting process 'command '/Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/aapt''. Working directory: /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app Command: /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/aapt package -f --no-crunch -I /Users/changbinhe/Documents/Android/sdk/platforms/android-23/android.jar -M /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/manifests/full/release/AndroidManifest.xml -S /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/res/merged/release -A /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/assets/release -m -J /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/generated/source/r/release -F /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/res/resources-release.ap_ -G /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/proguard-rules/release/aapt_rules.txt --custom-package iot.bugtags.demo -0 apk --output-text-symbols /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/symbols/release --no-version-vectors
+Successfully started process 'command '/Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/aapt''
+:app:processReleaseResources (Thread[main,5,main]) completed. Took 0.19 secs.
+:app:generateReleaseSources (Thread[main,5,main]) started.
+:app:generateReleaseSources
+Skipping task ':app:generateReleaseSources' as it has no actions.
+:app:generateReleaseSources (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:incrementalReleaseJavaCompilationSafeguard (Thread[main,5,main]) started.
+:app:incrementalReleaseJavaCompilationSafeguard
+Executing task ':app:incrementalReleaseJavaCompilationSafeguard' (up-to-date check took 0.007 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental-safeguard/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental-safeguard/release/tag.txt has been removed.
+All input files are considered out-of-date for incremental task ':app:incrementalReleaseJavaCompilationSafeguard'.
+:app:incrementalReleaseJavaCompilationSafeguard (Thread[main,5,main]) completed. Took 0.023 secs.
+:app:compileReleaseJavaWithJavac (Thread[main,5,main]) started.
+:app:compileReleaseJavaWithJavac
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/src/release/java', not found
+Executing task ':app:compileReleaseJavaWithJavac' (up-to-date check took 0.012 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/dependency-cache/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/release/io/bugtags/ui/R$dimen.class has been removed.
+All input files are considered out-of-date for incremental task ':app:compileReleaseJavaWithJavac'.
+Compiling with source level 1.7 and target level 1.7.
+:app:compileReleaseJavaWithJavac - is not incremental (e.g. outputs have changed, no previous execution, etc.).
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/src/release/java', not found
+Compiling with JDK Java compiler API.
+Class dependency analysis for incremental compilation took 0.013 secs.
+Created jar classpath snapshot for incremental compilation in 0.007 secs.
+Written jar classpath snapshot for incremental compilation in 0.001 secs.
+:app:compileReleaseJavaWithJavac (Thread[main,5,main]) completed. Took 0.53 secs.
+:app:processReleaseJavaRes (Thread[main,5,main]) started.
+:app:processReleaseJavaRes
+Skipping task ':app:processReleaseJavaRes' as it has no source files.
+:app:processReleaseJavaRes UP-TO-DATE
+:app:processReleaseJavaRes (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:transformResourcesWithMergeJavaResForRelease (Thread[main,5,main]) started.
+:app:transformResourcesWithMergeJavaResForRelease
+Executing task ':app:transformResourcesWithMergeJavaResForRelease' (up-to-date check took 0.002 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/mergeJavaRes/release has changed.
+All input files are considered out-of-date for incremental task ':app:transformResourcesWithMergeJavaResForRelease'.
+:app:transformResourcesWithMergeJavaResForRelease (Thread[main,5,main]) completed. Took 0.023 secs.
+:app:transformClassesAndResourcesWithProguardForRelease (Thread[main,5,main]) started.
+:app:transformClassesAndResourcesWithProguardForRelease
+Executing task ':app:transformClassesAndResourcesWithProguardForRelease' (up-to-date check took 0.007 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/proguard/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/mapping/release/usage.txt has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/mapping/release/seeds.txt has changed.
+All input files are considered out-of-date for incremental task ':app:transformClassesAndResourcesWithProguardForRelease'.
+ProGuard, version 5.2.1
+Reading input...
+Reading program jar [/Users/changbinhe/Documents/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar] (filtered)
+Reading program jar [/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/insta/1.0.3/jars/classes.jar] (filtered)
+Reading program jar [/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/jars/classes.jar] (filtered)
+Reading program directory [/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/release] (filtered)
+Reading library jar [/Users/changbinhe/Documents/Android/sdk/platforms/android-23/android.jar]
+Reading library jar [/Users/changbinhe/Documents/Android/sdk/platforms/android-23/optional/org.apache.http.legacy.jar]
+Note: duplicate definition of library class [android.net.http.SslCertificate]
+Note: duplicate definition of library class [android.net.http.SslError]
+Note: duplicate definition of library class [android.net.http.SslCertificate$DName]
+Note: duplicate definition of library class [org.apache.http.conn.scheme.SocketFactory]
+Note: duplicate definition of library class [org.apache.http.conn.scheme.HostNameResolver]
+Note: duplicate definition of library class [org.apache.http.conn.ConnectTimeoutException]
+Note: duplicate definition of library class [org.apache.http.params.HttpParams]
+Initializing...
+Note: the configuration refers to the unknown class 'com.google.vending.licensing.ILicensingService'
+Note: the configuration refers to the unknown class 'com.android.vending.licensing.ILicensingService'
+Note: the configuration refers to the unknown class 'android.support.annotation.Keep'
+Note: the configuration refers to the unknown class 'android.support.annotation.Keep'
+Note: the configuration refers to the unknown class 'android.support.annotation.Keep'
+Note: the configuration refers to the unknown class 'android.support.annotation.Keep'
+Note: the configuration refers to the unknown class 'android.support.annotation.Keep'
+Note: android.support.v4.text.ICUCompatIcs: can't find dynamically referenced class libcore.icu.ICU
+Note: the configuration keeps the entry point 'android.support.v4.app.Fragment { void setIndex(int,android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'android.support.v4.app.Fragment { void setInitialSavedState(android.support.v4.app.Fragment$SavedState); }', but not the descriptor class 'android.support.v4.app.Fragment$SavedState'
+Note: the configuration keeps the entry point 'android.support.v4.app.Fragment { void setTargetFragment(android.support.v4.app.Fragment,int); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'android.support.v4.app.FragmentActivity { void onAttachFragment(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'android.support.v4.app.FragmentActivity { void startActivityFromFragment(android.support.v4.app.Fragment,android.content.Intent,int); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'android.support.v4.view.ViewPager { void setAdapter(android.support.v4.view.PagerAdapter); }', but not the descriptor class 'android.support.v4.view.PagerAdapter'
+Note: the configuration keeps the entry point 'android.support.v4.view.ViewPager { void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener); }', but not the descriptor class 'android.support.v4.view.ViewPager$OnAdapterChangeListener'
+Note: the configuration keeps the entry point 'android.support.v4.view.ViewPager { void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener); }', but not the descriptor class 'android.support.v4.view.ViewPager$OnPageChangeListener'
+Note: the configuration keeps the entry point 'android.support.v4.widget.DrawerLayout { void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener); }', but not the descriptor class 'android.support.v4.widget.DrawerLayout$DrawerListener'
+Note: the configuration keeps the entry point 'android.support.v4.widget.SlidingPaneLayout { void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener); }', but not the descriptor class 'android.support.v4.widget.SlidingPaneLayout$PanelSlideListener'
+Note: the configuration keeps the entry point 'io.bugtags.library.Bugtags { void onResume(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'io.bugtags.library.Bugtags { void onPause(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.bb { void onResume(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.bb { void onPause(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.bd { void onResume(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.bd { void onPause(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.be { void onResume(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.be { void onPause(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.cm { void a(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.cm { void b(android.support.v4.app.Fragment); }', but not the descriptor class 'android.support.v4.app.Fragment'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.dy$1 { void a(io.bugtags.library.obfuscated.dx,android.support.v4.app.FragmentTransaction); }', but not the descriptor class 'android.support.v4.app.FragmentTransaction'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.dy$2 { void a(io.bugtags.library.obfuscated.dx,android.support.v4.app.FragmentTransaction); }', but not the descriptor class 'android.support.v4.app.FragmentTransaction'
+Note: the configuration keeps the entry point 'io.bugtags.library.obfuscated.dz$a { void a(io.bugtags.library.obfuscated.dx,android.support.v4.app.FragmentTransaction); }', but not the descriptor class 'android.support.v4.app.FragmentTransaction'
+Note: there were 7 references to unknown classes.
+      You should check your configuration for typos.
+      (http://proguard.sourceforge.net/manual/troubleshooting.html#unknownclass)
+Note: there were 23 unkept descriptor classes in kept class members.
+      You should consider explicitly keeping the mentioned classes
+      (using '-keep').
+      (http://proguard.sourceforge.net/manual/troubleshooting.html#descriptorclass)
+Note: there were 1 unresolved dynamic references to classes or interfaces.
+      You should check if you need to specify additional program jars.
+      (http://proguard.sourceforge.net/manual/troubleshooting.html#dynamicalclass)
+Ignoring unused library classes...
+  Original number of library classes: 3880
+  Final number of library classes:    898
+Printing kept classes, fields, and methods...
+Shrinking...
+Printing usage to [/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/mapping/release/usage.txt]...
+Removing unused program classes and class elements...
+  Original number of program classes: 1064
+  Final number of program classes:    614
+Obfuscating...
+Printing mapping to [/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/mapping/release/mapping.txt]...
+Writing output...
+Preparing output jar [/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/proguard/release/jars/3/1f/main.jar]
+  Copying resources from program jar [/Users/changbinhe/Documents/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar] (filtered)
+  Copying resources from program jar [/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/insta/1.0.3/jars/classes.jar] (filtered)
+  Copying resources from program jar [/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/exploded-aar/io.bugtags.library/bugtags-lib/1.3.1/jars/classes.jar] (filtered)
+  Copying resources from program directory [/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/release] (filtered)
+Printing classes to [/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/mapping/release/dump.txt]...
+:app:transformClassesAndResourcesWithProguardForRelease (Thread[main,5,main]) completed. Took 3.176 secs.
+:app:transformClassesWithDexForRelease (Thread[main,5,main]) started.
+:app:transformClassesWithDexForRelease
+Executing task ':app:transformClassesWithDexForRelease' (up-to-date check took 0.005 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/dex/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/pre-dexed/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/dex/release/folders has been removed.
+All input files are considered out-of-date for incremental task ':app:transformClassesWithDexForRelease'.
+Dexing in-process.
+Dexing /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/proguard/release/jars/3/1f/main.jar took 1.232 s.
+:app:transformClassesWithDexForRelease (Thread[main,5,main]) completed. Took 1.25 secs.
+:app:bugtagsDeinstrumentTask (Thread[main,5,main]) started.
+:app:bugtagsDeinstrumentTask
+Executing task ':app:bugtagsDeinstrumentTask' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:bugtagsDeinstrumentTask (Thread[main,5,main]) completed. Took 0.151 secs.
+:app:mergeDebugJniLibFolders (Thread[main,5,main]) started.
+:app:mergeDebugJniLibFolders
+Executing task ':app:mergeDebugJniLibFolders' (up-to-date check took 0.005 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/jniLibs/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeDebugJniLibFolders has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml has been removed.
+All input files are considered out-of-date for incremental task ':app:mergeDebugJniLibFolders'.
+Unable do incremental execution: full task run
+:app:mergeDebugJniLibFolders (Thread[main,5,main]) completed. Took 0.021 secs.
+:app:transformNative_libsWithMergeJniLibsForDebug (Thread[main,5,main]) started.
+:app:transformNative_libsWithMergeJniLibsForDebug
+Executing task ':app:transformNative_libsWithMergeJniLibsForDebug' (up-to-date check took 0.009 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/mergeJniLibs/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib has been removed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libBugtags.so has been removed.
+All input files are considered out-of-date for incremental task ':app:transformNative_libsWithMergeJniLibsForDebug'.
+:app:transformNative_libsWithMergeJniLibsForDebug (Thread[main,5,main]) completed. Took 0.04 secs.
+:app:processDebugJavaRes (Thread[main,5,main]) started.
+:app:processDebugJavaRes
+Skipping task ':app:processDebugJavaRes' as it has no source files.
+:app:processDebugJavaRes UP-TO-DATE
+:app:processDebugJavaRes (Thread[main,5,main]) completed. Took 0.002 secs.
+:app:transformResourcesWithMergeJavaResForDebug (Thread[main,5,main]) started.
+:app:transformResourcesWithMergeJavaResForDebug
+Executing task ':app:transformResourcesWithMergeJavaResForDebug' (up-to-date check took 0.004 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/mergeJavaRes/debug has changed.
+All input files are considered out-of-date for incremental task ':app:transformResourcesWithMergeJavaResForDebug'.
+:app:transformResourcesWithMergeJavaResForDebug (Thread[main,5,main]) completed. Took 0.018 secs.
+:app:validateReleaseSigning (Thread[main,5,main]) started.
+:app:validateReleaseSigning
+Executing task ':app:validateReleaseSigning' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:validateReleaseSigning (Thread[main,5,main]) completed. Took 0.002 secs.
+:app:packageDebug (Thread[main,5,main]) started.
+:app:packageDebug
+Executing task ':app:packageDebug' (up-to-date check took 0.007 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-debug-unaligned.apk has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-debug-unaligned.apk has been removed.
+All input files are considered out-of-date for incremental task ':app:packageDebug'.
+:app:packageDebug (Thread[main,5,main]) completed. Took 0.472 secs.
+:app:zipalignDebug (Thread[main,5,main]) started.
+:app:zipalignDebug
+Executing task ':app:zipalignDebug' (up-to-date check took 0.002 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-debug.apk has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-debug.apk has been removed.
+Starting process 'command '/Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/zipalign''. Working directory: /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app Command: /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/zipalign -f 4 /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-debug-unaligned.apk /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-debug.apk
+Successfully started process 'command '/Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/zipalign''
+:app:zipalignDebug (Thread[main,5,main]) completed. Took 0.032 secs.
+:app:assembleDebug (Thread[main,5,main]) started.
+:app:assembleDebug
+Skipping task ':app:assembleDebug' as it has no actions.
+:app:assembleDebug (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileReleaseNdk (Thread[main,5,main]) started.
+:app:compileReleaseNdk
+Skipping task ':app:compileReleaseNdk' as it has no source files.
+:app:compileReleaseNdk UP-TO-DATE
+:app:compileReleaseNdk (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileReleaseSources (Thread[main,5,main]) started.
+:app:compileReleaseSources
+Skipping task ':app:compileReleaseSources' as it has no actions.
+:app:compileReleaseSources (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:lintVitalRelease (Thread[main,5,main]) started.
+:app:lintVitalRelease
+Executing task ':app:lintVitalRelease' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:lintVitalRelease (Thread[main,5,main]) completed. Took 4.238 secs.
+:app:bugtagsUploadReleaseMapping (Thread[main,5,main]) started.
+:app:bugtagsUploadReleaseMapping
+Executing task ':app:bugtagsUploadReleaseMapping' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+Bugtags upload!
+:app:bugtagsUploadReleaseMapping (Thread[main,5,main]) completed. Took 1.52 secs.
+:app:prePackageMarkerForRelease (Thread[main,5,main]) started.
+:app:prePackageMarkerForRelease
+Executing task ':app:prePackageMarkerForRelease' (up-to-date check took 0.002 secs) due to:
+  Value of input property 'buildId' has changed for task ':app:prePackageMarkerForRelease'
+All input files are considered out-of-date for incremental task ':app:prePackageMarkerForRelease'.
+:app:prePackageMarkerForRelease (Thread[main,5,main]) completed. Took 0.006 secs.
+:app:mergeReleaseJniLibFolders (Thread[main,5,main]) started.
+:app:mergeReleaseJniLibFolders
+Executing task ':app:mergeReleaseJniLibFolders' (up-to-date check took 0.002 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/jniLibs/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeReleaseJniLibFolders has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml has been removed.
+All input files are considered out-of-date for incremental task ':app:mergeReleaseJniLibFolders'.
+Unable do incremental execution: full task run
+:app:mergeReleaseJniLibFolders (Thread[main,5,main]) completed. Took 0.012 secs.
+:app:transformNative_libsWithMergeJniLibsForRelease (Thread[main,5,main]) started.
+:app:transformNative_libsWithMergeJniLibsForRelease
+Executing task ':app:transformNative_libsWithMergeJniLibsForRelease' (up-to-date check took 0.005 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/mergeJniLibs/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/mergeJniLibs/release/folders/2000/1f/main/lib/mips64/libBugtags.so has been removed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/transforms/mergeJniLibs/release/folders/2000/1f/main/lib/x86/libBugtags.so has been removed.
+All input files are considered out-of-date for incremental task ':app:transformNative_libsWithMergeJniLibsForRelease'.
+:app:transformNative_libsWithMergeJniLibsForRelease (Thread[main,5,main]) completed. Took 0.038 secs.
+:app:packageRelease (Thread[main,5,main]) started.
+:app:packageRelease
+Executing task ':app:packageRelease' (up-to-date check took 0.012 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-release-unaligned.apk has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-release-unaligned.apk has been removed.
+All input files are considered out-of-date for incremental task ':app:packageRelease'.
+:app:packageRelease (Thread[main,5,main]) completed. Took 0.301 secs.
+:app:zipalignRelease (Thread[main,5,main]) started.
+:app:zipalignRelease
+Executing task ':app:zipalignRelease' (up-to-date check took 0.002 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-release.apk has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-release.apk has been removed.
+Starting process 'command '/Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/zipalign''. Working directory: /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app Command: /Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/zipalign -f 4 /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-release-unaligned.apk /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/apk/app-release.apk
+Successfully started process 'command '/Users/changbinhe/Documents/Android/sdk/build-tools/23.0.2/zipalign''
+:app:zipalignRelease (Thread[main,5,main]) completed. Took 0.032 secs.
+:app:assembleRelease (Thread[main,5,main]) started.
+:app:assembleRelease
+Skipping task ':app:assembleRelease' as it has no actions.
+:app:assembleRelease (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:assemble (Thread[main,5,main]) started.
+:app:assemble
+Skipping task ':app:assemble' as it has no actions.
+:app:assemble (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:compileLint (Thread[main,5,main]) started.
+:app:compileLint
+Executing task ':app:compileLint' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:compileLint (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:lint (Thread[main,5,main]) started.
+:app:lint
+Executing task ':app:lint' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+Ran lint on variant release: 35 issues found
+Ran lint on variant debug: 35 issues found
+Wrote HTML report to file:///Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/lint-results-debug.html
+Wrote XML report to file:///Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/outputs/lint-results-debug.xml
+:app:lint (Thread[main,5,main]) completed. Took 2.608 secs.
+:app:incrementalDebugUnitTestJavaCompilationSafeguard (Thread[main,5,main]) started.
+:app:incrementalDebugUnitTestJavaCompilationSafeguard
+Skipping task ':app:incrementalDebugUnitTestJavaCompilationSafeguard' as it has no source files.
+:app:incrementalDebugUnitTestJavaCompilationSafeguard UP-TO-DATE
+:app:incrementalDebugUnitTestJavaCompilationSafeguard (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:preDebugUnitTestBuild (Thread[main,5,main]) started.
+:app:preDebugUnitTestBuild
+Skipping task ':app:preDebugUnitTestBuild' as it has no actions.
+:app:preDebugUnitTestBuild UP-TO-DATE
+:app:preDebugUnitTestBuild (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:prepareDebugUnitTestDependencies (Thread[main,5,main]) started.
+:app:prepareDebugUnitTestDependencies
+Executing task ':app:prepareDebugUnitTestDependencies' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:prepareDebugUnitTestDependencies (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileDebugUnitTestJavaWithJavac (Thread[main,5,main]) started.
+:app:compileDebugUnitTestJavaWithJavac
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/src/test/java', not found
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/src/testDebug/java', not found
+Skipping task ':app:compileDebugUnitTestJavaWithJavac' as it has no source files.
+:app:compileDebugUnitTestJavaWithJavac UP-TO-DATE
+:app:compileDebugUnitTestJavaWithJavac (Thread[main,5,main]) completed. Took 0.002 secs.
+:app:processDebugUnitTestJavaRes (Thread[main,5,main]) started.
+:app:processDebugUnitTestJavaRes
+Skipping task ':app:processDebugUnitTestJavaRes' as it has no source files.
+:app:processDebugUnitTestJavaRes UP-TO-DATE
+:app:processDebugUnitTestJavaRes (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileDebugUnitTestSources (Thread[main,5,main]) started.
+:app:compileDebugUnitTestSources
+Skipping task ':app:compileDebugUnitTestSources' as it has no actions.
+:app:compileDebugUnitTestSources UP-TO-DATE
+:app:compileDebugUnitTestSources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:mockableAndroidJar (Thread[main,5,main]) started.
+:app:mockableAndroidJar
+Skipping task ':app:mockableAndroidJar' as it is up-to-date (took 0.002 secs).
+:app:mockableAndroidJar UP-TO-DATE
+:app:mockableAndroidJar (Thread[main,5,main]) completed. Took 0.002 secs.
+:app:assembleDebugUnitTest (Thread[main,5,main]) started.
+:app:assembleDebugUnitTest
+Skipping task ':app:assembleDebugUnitTest' as it has no actions.
+:app:assembleDebugUnitTest UP-TO-DATE
+:app:assembleDebugUnitTest (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:testDebugUnitTest (Thread[main,5,main]) started.
+:app:testDebugUnitTest
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/test/debug', not found
+Executing task ':app:testDebugUnitTest' (up-to-date check took 0.016 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/test-results/binary/testDebugUnitTest has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/test-results/debug has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/reports/tests/debug has changed.
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/test/debug', not found
+Finished generating test XML results (0.006 secs) into: /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/test-results/debug
+Generating HTML test report...
+Finished generating test html results (0.036 secs) into: /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/reports/tests/debug
+:app:testDebugUnitTest (Thread[main,5,main]) completed. Took 0.151 secs.
+:app:incrementalReleaseUnitTestJavaCompilationSafeguard (Thread[main,5,main]) started.
+:app:incrementalReleaseUnitTestJavaCompilationSafeguard
+Skipping task ':app:incrementalReleaseUnitTestJavaCompilationSafeguard' as it has no source files.
+:app:incrementalReleaseUnitTestJavaCompilationSafeguard UP-TO-DATE
+:app:incrementalReleaseUnitTestJavaCompilationSafeguard (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:preReleaseUnitTestBuild (Thread[main,5,main]) started.
+:app:preReleaseUnitTestBuild
+Skipping task ':app:preReleaseUnitTestBuild' as it has no actions.
+:app:preReleaseUnitTestBuild UP-TO-DATE
+:app:preReleaseUnitTestBuild (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:prepareReleaseUnitTestDependencies (Thread[main,5,main]) started.
+:app:prepareReleaseUnitTestDependencies
+Executing task ':app:prepareReleaseUnitTestDependencies' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:app:prepareReleaseUnitTestDependencies (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:compileReleaseUnitTestJavaWithJavac (Thread[main,5,main]) started.
+:app:compileReleaseUnitTestJavaWithJavac
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/src/test/java', not found
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/src/testRelease/java', not found
+Skipping task ':app:compileReleaseUnitTestJavaWithJavac' as it has no source files.
+:app:compileReleaseUnitTestJavaWithJavac UP-TO-DATE
+:app:compileReleaseUnitTestJavaWithJavac (Thread[main,5,main]) completed. Took 0.002 secs.
+:app:processReleaseUnitTestJavaRes (Thread[main,5,main]) started.
+:app:processReleaseUnitTestJavaRes
+Skipping task ':app:processReleaseUnitTestJavaRes' as it has no source files.
+:app:processReleaseUnitTestJavaRes UP-TO-DATE
+:app:processReleaseUnitTestJavaRes (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:compileReleaseUnitTestSources (Thread[main,5,main]) started.
+:app:compileReleaseUnitTestSources
+Skipping task ':app:compileReleaseUnitTestSources' as it has no actions.
+:app:compileReleaseUnitTestSources UP-TO-DATE
+:app:compileReleaseUnitTestSources (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:assembleReleaseUnitTest (Thread[main,5,main]) started.
+:app:assembleReleaseUnitTest
+Skipping task ':app:assembleReleaseUnitTest' as it has no actions.
+:app:assembleReleaseUnitTest UP-TO-DATE
+:app:assembleReleaseUnitTest (Thread[main,5,main]) completed. Took 0.0 secs.
+:app:testReleaseUnitTest (Thread[main,5,main]) started.
+:app:testReleaseUnitTest
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/test/release', not found
+Executing task ':app:testReleaseUnitTest' (up-to-date check took 0.009 secs) due to:
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/reports/tests/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/test-results/release has changed.
+  Output file /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/test-results/binary/testReleaseUnitTest has changed.
+file or directory '/Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/intermediates/classes/test/release', not found
+Finished generating test XML results (0.0 secs) into: /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/test-results/release
+Generating HTML test report...
+Finished generating test html results (0.004 secs) into: /Users/changbinhe/Documents/git/bt/IO-Bugtags-Android-Studio-Demo/app/build/reports/tests/release
+:app:testReleaseUnitTest (Thread[main,5,main]) completed. Took 0.035 secs.
+:app:test (Thread[main,5,main]) started.
+:app:test
+Skipping task ':app:test' as it has no actions.
+:app:test (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:check (Thread[main,5,main]) started.
+:app:check
+Skipping task ':app:check' as it has no actions.
+:app:check (Thread[main,5,main]) completed. Took 0.001 secs.
+:app:build (Thread[main,5,main]) started.
+:app:build
+Skipping task ':app:build' as it has no actions.
+:app:build (Thread[main,5,main]) completed. Took 0.0 secs.
 
 BUILD SUCCESSFUL
 
-Total time: 27.585 secs
+Total time: 33.968 secs
+Bugtags mapping upload succeed!
+Bugtags append log!
+PREDEX CACHE HITS:   0
+PREDEX CACHE MISSES: 4
+Stopped 0 compiler daemon(s).
 
 This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.14.1/userguide/gradle_daemon.html
