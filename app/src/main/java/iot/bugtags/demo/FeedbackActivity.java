@@ -31,6 +31,9 @@ public class FeedbackActivity extends BaseActivity {
             return;
         }
 
+        Bugtags.setUserData("key", "value");
+        Bugtags.log("hello,bugtags,log");
+
         Bugtags.sendFeedback(message);
         Toast.makeText(this, R.string.feedback_send_succeed, Toast.LENGTH_SHORT).show();
 

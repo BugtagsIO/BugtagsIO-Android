@@ -19,10 +19,10 @@ public class MyApplication extends Application {
 
         //customizable init option
         BugtagsOptions options = new BugtagsOptions.Builder().
-                trackingLocation(true).//是否获取位置
-                trackingCrashLog(true).//是否收集crash
-                trackingConsoleLog(true).//是否收集console log
-                trackingUserSteps(true).//是否收集用户操作步骤
+                trackingLocation(true).//Set whether to track the location in the app, default is true
+                trackingCrashLog(true).// Set whether to track the crashes in the app, default is true
+                trackingConsoleLog(true).//Set whether to track the console logs while using the app, default is true
+                trackingUserSteps(true).//Set whether to track the user's steps while using the app, default is true
                 startAsync(false).
                 startCallback(new BugtagsCallback() {
                     @Override
@@ -50,5 +50,8 @@ public class MyApplication extends Application {
         });
 
         Bugtags.registerPlugin(new BugtagsInsta());
+
+        Bugtags.log("hello,bugtags log");
+        Bugtags.setUserData("key", "value");
     }
 }
