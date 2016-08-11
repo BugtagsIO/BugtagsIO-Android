@@ -27,4 +27,4 @@ Please visit [Bugtags Android Studio integration](https://docs.bugtags.io/start/
 Please visit [Bugtags changelogs](https://docs.bugtags.io/changelog/android.html).
 
 # License
-This demo is [MIT-licensed](LICENSE).
+This demo is licensed under the MIT License.
